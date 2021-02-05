@@ -139,7 +139,7 @@
          "height":45,
          "id":24,
          "name":"colide",
-         "opacity":0,
+         "opacity":0.97,
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -541,6 +541,15 @@
                 }, 
                 {
                  "id":154,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":234,
                  "properties":[
                         {
                          "name":"collides",
