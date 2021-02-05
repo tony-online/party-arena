@@ -151,7 +151,7 @@
          "height":45,
          "id":24,
          "name":"colide",
-         "opacity":0.7,
+         "opacity":0,
          "type":"tilelayer",
          "visible":true,
          "width":60,
