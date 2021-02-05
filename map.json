@@ -414,7 +414,7 @@
         {
          "columns":32,
          "firstgid":336,
-         "image":"..\/..\/0-telefon-uebergabe\/partykeller-master\/Atlas\/terrain_atlas.png",
+         "image":"terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -427,7 +427,7 @@
         {
          "columns":32,
          "firstgid":1360,
-         "image":"..\/..\/0-telefon-uebergabe\/partykeller-master\/Atlas\/base_out_atlas.png",
+         "image":"base_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
